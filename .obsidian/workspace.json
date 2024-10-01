@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "743238b12ab5feaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fab1d7055945575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a5cd70f24f4507",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aac11f70c61358e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d8a429688708e66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f248f425e47f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc7518085fd2e289",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42ec8c15f4e0aca6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c729d620381f8a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad13ece26faa99a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b060cd6e561f745e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "53c34930849ad63c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e1032c535ab9ed0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c0d27b90395ab74",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91b621487cca3f30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": true,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false,
+      "zettelkasten-navigation:打开关键词分支视图": false,
+      "zettelkasten-navigation:打开局部关系视图": false
+    }
+  },
+  "active": "49a5cd70f24f4507",
+  "lastOpenFiles": [
+    "zniann/basis/学术领域.md",
+    "zniann/basis/灵感洞见.md",
+    "zettelkasten/3010/3010-1 读书方法.md",
+    "zettelkasten/1535/1535.2 文字处理软件.md",
+    "zettelkasten/1522/1522.1 Windows.md",
+    "scheme/学习计划.md",
+    "journal/yearly/Y2024.md",
+    "journal/weekly/2024/2024-W40.md",
+    "journal/monthly/2024/2024-M10.md",
+    "journal/daily/2024/10/2024-10-01.md",
+    "journal/booklist/B2024.md",
+    "inspiration/过去现在未来.md",
+    "folgezettel/Java.md",
+    "career/淘宝客服.md",
+    "career/零一开悟.md",
+    "career/程序接单.md",
+    "attachment/templatets/年记模板.md",
+    "journal/monthly/2024",
+    "journal/weekly/2024",
+    "journal/booklist/journal/booklist/B2024.md",
+    "journal/booklist/journal/booklist",
+    "journal/booklist/journal",
+    "journal/booklist",
+    "journal/boo",
+    "zettelkasten/3010/3010-1.2 卡片笔记写作法.md",
+    "attachment/definitions/论证.md",
+    "bibliography/@3010-1.2 卡片笔记写作法.md",
+    "zettelkasten/3010/3010-1.2A 写作步骤.md",
+    "zettelkasten/3010/3010-1.1D 主题阅读.md",
+    "zettelkasten/3010/3010-1.1C1 修辞作用.md",
+    "zettelkasten/3010/3010-1.1C 分析阅读.md",
+    "zettelkasten/3010/3010-1.1B 检视阅读.md",
+    "zettelkasten/3010",
+    "zettelkasten/1535",
+    "zettelkasten/1522",
+    "journal/daily/2024/10"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "FolderOfMainNotes": "zettelkasten",
+  "FolderOfIndexes": "folgezettel",
+  "SelectIndex": "",
+  "StartingPoint": "father",
+  "DisplayLevel": "end",
+  "NodeText": "both",
+  "FamilyGraphToggle": true,
+  "InlinksGraphToggle": true,
+  "OutlinksGraphToggle": true,
+  "TagOfMainNotes": "",
+  "IDFieldOption": "3",
+  "TitleField": "",
+  "IDField": "",
+  "Separator": " ",
+  "IndexButtonText": "📖关键词",
+  "SuggestMode": "fuzzySuggest",
+  "FoldToggle": true,
+  "FoldNodeArr": [],
+  "RedDashLine": true,
+  "zoomPanScaleArr": [
+    {
+      "graphID": "zk-index-mermaid-0",
+      "zoomScale": 0.3903672993183136,
+      "pan": {
+        "x": 273.7998538494953,
+        "y": 286.39995896158297
+      }
+    },
+    {
+      "graphID": "zk-index-mermaid-1",
+      "zoomScale": 0.41588342189788824,
+      "pan": {
+        "x": 262.67481742838095,
+        "y": 326.6999850430255
+      }
+    },
+    {
+      "graphID": "zk-index-mermaid-2",
+      "zoomScale": 0.9650273919105531,
+      "pan": {
+        "x": 23.248094068137366,
+        "y": 165.4991697272731
+      }
+    },
+    {
+      "graphID": "zk-index-mermaid-3",
+      "zoomScale": 0.14376430213451385,
+      "pan": {
+        "x": 381.3187622534087,
+        "y": 326.7000036647567
+      }
+    }
+  ],
+  "CustomCreatedTime": "",
+  "BranchTab": 0,
+  "FileExtension": "md",
+  "SectionTab": 0,
+  "HeightOfFamilyGraph": 200,
+  "HeightOfInlinksGraph": 200,
+  "HeightOfOutlinksGraph": 200,
+  "DirectionOfBranchGraph": "LR",
+  "DirectionOfFamilyGraph": "LR",
+  "DirectionOfInlinksGraph": "TB",
+  "DirectionOfOutlinksGraph": "TB",
+  "BranchToolbra": true,
+  "RandomIndex": true,
+  "RandomMainNote": true,
+  "TableView": true,
+  "IndexButton": true,
+  "MainNoteButton": true,
+  "MainNoteButtonText": "📄主笔记",
+  "SelectMainNote": "",
+  "settingIcon": true,
+  "MainNoteSuggestMode": "fuzzySuggest",
+  "ListTree": true,
+  "HistoryList": [
+    {
+      "displayText": "1522.1 Windows",
+      "filePath": "folgezettel/1522.1 Windows.md",
+      "openTime": "2024-10-01 21:29:59"
+    },
+    {
+      "displayText": "1522.1.1: 装机必备",
+      "filePath": "zettelkasten/1522.1.1 装机必备.md",
+      "openTime": "2024-10-01 21:29:48"
+    }
+  ],
+  "HistoryToggle": true,
+  "HistoryMaxCount": 20,
+  "exportCanvas": true,
+  "cardWidth": 400,
+  "cardHeight": 240,
+  "canvasFilePath": "",
+  "siblingsOrder": "number",
+  "showAll": true,
+  "showAllToggle": true,
+  "play": true,
+  "outlineLayer": 2
+}

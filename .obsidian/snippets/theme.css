@@ -1,0 +1,30 @@
+body {
+  --callout-quote: 240, 98, 146;
+}
+
+/* inline-code */
+/*实时编辑*/
+.theme-light .markdown-source-view span.cm-inline-code,
+.theme-dark .markdown-source-view span.cm-inline-code {
+  background-color: rgba(142, 150, 170, 0.14);
+  color: #8a5cf5;
+}
+/*阅读模式*/
+.theme-light div p code,
+.theme-dark div p code {
+  background-color: rgba(142, 150, 170, 0.14);
+  color: #8a5cf5;
+}
+
+/* task */
+ul > li.task-list-item[data-task="x"],
+ul > li.task-list-item[data-task="X"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"],
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+  text-decoration: unset;
+  color: unset;
+}
+
+.callout-content hr {
+  margin: 0;
+}

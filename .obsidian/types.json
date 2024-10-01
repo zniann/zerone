@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "作者": "multitext",
+    "出版日期": "date",
+    "页数": "number"
+  }
+}
