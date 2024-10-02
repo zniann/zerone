@@ -63,5 +63,14 @@
       ],
       "key": "Enter"
     }
+  ],
+  "easy-typing-obsidian:easy-typing-paste-without-format": [],
+  "quickadd:choice:200f7ff7-0d38-45d1-97ce-5b75cd2a7b27": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }

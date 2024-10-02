@@ -106,161 +106,21 @@
       "command": false,
       "choices": [
         {
-          "id": "0639e4be-6cc0-474e-a0cd-a87f4a222d8d",
-          "name": "周流水",
+          "id": "200f7ff7-0d38-45d1-97ce-5b75cd2a7b27",
+          "name": "闪念捕获",
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "journal/monthly/{{date:YYYY/YYYY-[M]MM}}",
+          "captureTo": "journal/inspiration/{{DATE:YYYY/MM/YYYY-MM-DD}} {{VALUE:闪念笔记文件名}}",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
             "createWithTemplate": true,
-            "template": "attachment/templatets/月记模板.md"
+            "template": "attachment/templatets/闪念笔记.md"
           },
           "format": {
             "enabled": true,
-            "format": "- [[{{DATE:YYYY-[W]ww}}]]\n"
-          },
-          "insertAfter": {
-            "enabled": true,
-            "after": "## 每周流水",
-            "insertAtEnd": true,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "prepend": false,
-          "task": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default"
-        },
-        {
-          "id": "cc930018-1f8a-4699-a37c-38dc0e99689a",
-          "name": "月流水",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "journal/yearly/{{date:[Y]YYYY}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "attachment/templatets/年记模板.md"
-          },
-          "format": {
-            "enabled": true,
-            "format": "- [[{{date:YYYY-[M]MM}}]]\n"
-          },
-          "insertAfter": {
-            "enabled": true,
-            "after": "## 每月流水",
-            "insertAtEnd": true,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "prepend": false,
-          "task": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default"
-        },
-        {
-          "id": "babadd02-4ce4-4919-ba2d-bae93e0477fc",
-          "name": "年书单",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "journal/yearly/{{date:[Y]YYYY}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "attachment/templatets/年记模板.md"
-          },
-          "format": {
-            "enabled": true,
-            "format": "- [[{{date:[B]YYYY}}]]\n"
-          },
-          "insertAfter": {
-            "enabled": true,
-            "after": "## 年度书单",
-            "insertAtEnd": true,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "prepend": false,
-          "task": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default"
-        },
-        {
-          "id": "b7b1c8f9-522e-4796-b9b8-ae462f588c7b",
-          "name": "捕获灵感",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "journal/daily/{{date:YYYY/MM/YYYY-MM-DD}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "attachment/templatets/日记模板.md"
-          },
-          "format": {
-            "enabled": true,
-            "format": "- {{VALUE:请输入捕获的灵感}}"
-          },
-          "insertAfter": {
-            "enabled": true,
-            "after": "## 灵感捕获",
-            "insertAtEnd": true,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "prepend": false,
-          "task": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default"
-        },
-        {
-          "id": "e265d91f-e533-46dc-b26c-de5d7182db10",
-          "name": "书单流水",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "journal/booklist/{{date:[B]YYYY}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "attachment/templatets/书单模板.md"
-          },
-          "format": {
-            "enabled": false,
-            "format": ""
+            "format": "- {{VALUE:请输入闪念笔记的内容}}"
           },
           "insertAfter": {
             "enabled": false,
@@ -271,7 +131,7 @@
             "createIfNotFoundLocation": "top"
           },
           "prepend": true,
-          "task": true,
+          "task": false,
           "openFileInNewTab": {
             "enabled": false,
             "direction": "vertical",
@@ -283,7 +143,7 @@
       ]
     },
     {
-      "id": "be0cffef-3074-45f3-b1dd-9f449f28b481",
+      "id": "7f34cba8-11d0-4093-8f3a-e8d8f57798ce",
       "name": "Macro",
       "type": "Multi",
       "command": false,

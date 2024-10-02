@@ -21,34 +21,10 @@
   "zoomPanScaleArr": [
     {
       "graphID": "zk-index-mermaid-0",
-      "zoomScale": 0.3903672993183136,
+      "zoomScale": 0.8755647129911621,
       "pan": {
-        "x": 273.7998538494953,
-        "y": 286.39995896158297
-      }
-    },
-    {
-      "graphID": "zk-index-mermaid-1",
-      "zoomScale": 0.41588342189788824,
-      "pan": {
-        "x": 262.67481742838095,
-        "y": 326.6999850430255
-      }
-    },
-    {
-      "graphID": "zk-index-mermaid-2",
-      "zoomScale": 0.9650273919105531,
-      "pan": {
-        "x": 23.248094068137366,
-        "y": 165.4991697272731
-      }
-    },
-    {
-      "graphID": "zk-index-mermaid-3",
-      "zoomScale": 0.14376430213451385,
-      "pan": {
-        "x": 381.3187622534087,
-        "y": 326.7000036647567
+        "x": 80.91904912274427,
+        "y": 165.5000956678761
       }
     }
   ],
@@ -70,11 +46,31 @@
   "IndexButton": true,
   "MainNoteButton": true,
   "MainNoteButtonText": "📄主笔记",
-  "SelectMainNote": "",
+  "SelectMainNote": "zettelkasten/3010 教育学/3010 教育学.md",
   "settingIcon": true,
   "MainNoteSuggestMode": "fuzzySuggest",
   "ListTree": true,
   "HistoryList": [
+    {
+      "displayText": "3010: 教育学",
+      "filePath": "zettelkasten/3010 教育学/3010 教育学.md",
+      "openTime": "2024-10-02 12:47:00"
+    },
+    {
+      "displayText": "1200: 逻辑学",
+      "filePath": "zettelkasten/1200 逻辑学/1200 逻辑学.md",
+      "openTime": "2024-10-02 12:46:54"
+    },
+    {
+      "displayText": "Java",
+      "filePath": "folgezettel/Java.md",
+      "openTime": "2024-10-02 12:46:52"
+    },
+    {
+      "displayText": "1500: 计算机科学",
+      "filePath": "zettelkasten/1500 计算机科学/1500 计算机科学.md",
+      "openTime": "2024-10-02 12:19:16"
+    },
     {
       "displayText": "1522.1 Windows",
       "filePath": "folgezettel/1522.1 Windows.md",

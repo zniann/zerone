@@ -3,15 +3,8 @@ body {
 }
 
 /* inline-code */
-/*实时编辑*/
-.theme-light .markdown-source-view span.cm-inline-code,
-.theme-dark .markdown-source-view span.cm-inline-code {
-  background-color: rgba(142, 150, 170, 0.14);
-  color: #8a5cf5;
-}
-/*阅读模式*/
-.theme-light div p code,
-.theme-dark div p code {
+.markdown-rendered code,
+.cm-s-obsidian .cm-inline-code:not(.cm-formatting) {
   background-color: rgba(142, 150, 170, 0.14);
   color: #8a5cf5;
 }
