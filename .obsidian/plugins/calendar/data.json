@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "YYYY/gggg-[W]ww",
   "weeklyNoteTemplate": "attachment/templatets/周记模板",
-  "weeklyNoteFolder": "journal/weekly/",
+  "weeklyNoteFolder": "journal/weekly",
   "localeOverride": "system-default"
 }

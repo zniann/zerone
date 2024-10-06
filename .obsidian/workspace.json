@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee827ebac706d512",
+        "id": "79c0da005c5d0e73",
         "type": "tabs",
         "children": [
           {
-            "id": "50084c178378f55d",
+            "id": "3182c4ea7f5db0d2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -76,6 +76,40 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dbbb51e9d4096706",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.36288736930121285,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "b060cd6e561f745e",
             "type": "leaf",
             "state": {
@@ -95,10 +129,18 @@
             }
           },
           {
-            "id": "4e1032c535ab9ed0",
+            "id": "a61b7df07e5475f3",
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "70f0feb5d4da2c0b",
+            "type": "leaf",
+            "state": {
+              "type": "zk-graph-type",
               "state": {}
             }
           },
@@ -141,50 +183,52 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
+      "templates:插入模板": true,
+      "templater-obsidian:Templater": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "zettelkasten-navigation:打开关键词分支视图": false,
-      "zettelkasten-navigation:打开局部关系视图": false
+      "zettelkasten-navigation:打开局部关系视图": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "50084c178378f55d",
+  "active": "3182c4ea7f5db0d2",
   "lastOpenFiles": [
-    "attachment/templatets/月记模板.md",
-    "attachment/templatets/闪念笔记.md",
-    "attachment/templatets/年记模板.md",
-    "attachment/templatets/读书笔记.md",
-    "attachment/templatets/日记模板.md",
-    "attachment/templatets/书单模板.md",
+    "journal/daily/2024/10/2024-10-06.md",
+    "scheme/学习计划-Java.md",
+    "journal/daily/2024/10/2024-10-05.md",
+    "scheme/学习计划-前端.md",
+    "scheme/读书阅读计划.md",
+    "journal/yearly/Y2024.md",
+    "journal/weekly/2024/2024-W40.md",
+    "journal/quarterly/2024/2024-Q4.md",
+    "journal/monthly/2024/2024-M10.md",
+    "journal/booklist/B2024.md",
+    "career/小说写作/小说写作.md",
+    "career/淘宝客服/2024-C10.md",
+    "career/零一开物/零一开悟.md",
+    "career/程序接单/程序接单.md",
+    "bibliography/@3010.1.2 卡片笔记写作法.md",
+    "bibliography/@3010.1.1 如何阅读一本书.md",
     "attachment/templatets/周记模板.md",
-    "discipline/1100 数学.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1513 信息论与编码理论/1513-1 密码学.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1513 信息论与编码理论/1513 信息论与编码理论.md",
-    "discipline/1400 系统科学.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1500 计算机科学.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-4 Server/1522-4.1 Docker.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-4 Server/1522-4 Server.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522 操作系统.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-4 Server",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-3 MacOS/1522-3 MacOS.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-3 MacOS",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-2 Linux/1522-2 Linux.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-2 Linux",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-1 Windows/1522-1 Windows.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-1 Windows",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1520 计算机系统/1522 操作系统/1522-4 Server/1522-4.2 Nginx.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1512 计算理论/1512 计算理论.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1512 计算理论/1512-1 设计模式.md",
-    "zettelkasten/1000 形式科学/1200 逻辑学/1200 逻辑学.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514 编程语言和编译器.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-5 Go/1514-5 Go.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-5 Go",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-4 Python/1514-4 Python.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-4 Python",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-3 C++/1514-3 C++.md",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-3 C++",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-2 FrontEnd",
-    "zettelkasten/1000 形式科学/1500 计算机科学/1510 理论计算机科学/1514 编程语言和编译器/1514-1 Java",
-    "zettelkasten/5000 应用科学"
+    "attachment/templatets/月记模板.md",
+    "attachment/templatets/文献模板.md",
+    "attachment/templatets/季度模板.md",
+    "attachment/templatets/书单模板.md",
+    "attachment/templatets/日记模板.md",
+    "attachment/templatets/年记模板.md",
+    "attachment/dictionary/论证.md",
+    "project/3007 会计学/3007 会计学.md",
+    "project/3007 会计学/3007.1 复式记账.md",
+    "zettelkasten/3010 教育学",
+    "journal/quarterly/2024",
+    "journal/quarterly",
+    "people",
+    "moc",
+    "scheme/3000 社会科学",
+    "scheme/1500 计算机科学",
+    "folgezettel/3000 社会科学",
+    "folgezettel/1500 计算机科学",
+    "bibliography/1500 计算机科学"
   ]
 }

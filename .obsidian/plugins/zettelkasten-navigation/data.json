@@ -1,7 +1,7 @@
 {
   "FolderOfMainNotes": "zettelkasten",
   "FolderOfIndexes": "folgezettel",
-  "SelectIndex": "",
+  "SelectIndex": "folgezettel/3010 教育学.md",
   "StartingPoint": "father",
   "DisplayLevel": "end",
   "NodeText": "both",
@@ -21,17 +21,25 @@
   "zoomPanScaleArr": [
     {
       "graphID": "zk-index-mermaid-0",
-      "zoomScale": 0.8755647129911621,
+      "zoomScale": 0.5477805137634277,
       "pan": {
-        "x": 80.91904912274427,
-        "y": 165.5000956678761
+        "x": 338.96935272873986,
+        "y": 313.8127839973887
+      }
+    },
+    {
+      "graphID": "zk-index-mermaid-1",
+      "zoomScale": 0.29660123586654663,
+      "pan": {
+        "x": 449.7344217766212,
+        "y": 434.70312901387604
       }
     }
   ],
   "CustomCreatedTime": "",
   "BranchTab": 0,
   "FileExtension": "md",
-  "SectionTab": 0,
+  "SectionTab": 2,
   "HeightOfFamilyGraph": 200,
   "HeightOfInlinksGraph": 200,
   "HeightOfOutlinksGraph": 200,
@@ -40,17 +48,82 @@
   "DirectionOfInlinksGraph": "TB",
   "DirectionOfOutlinksGraph": "TB",
   "BranchToolbra": true,
-  "RandomIndex": true,
-  "RandomMainNote": true,
+  "RandomIndex": false,
+  "RandomMainNote": false,
   "TableView": true,
   "IndexButton": true,
   "MainNoteButton": true,
   "MainNoteButtonText": "📄主笔记",
-  "SelectMainNote": "zettelkasten/3010 教育学/3010 教育学.md",
+  "SelectMainNote": "",
   "settingIcon": true,
   "MainNoteSuggestMode": "fuzzySuggest",
-  "ListTree": true,
+  "ListTree": false,
   "HistoryList": [
+    {
+      "displayText": "3010 教育学",
+      "filePath": "folgezettel/3010 教育学.md",
+      "openTime": "2024-10-04 12:31:33"
+    },
+    {
+      "displayText": "术语索引",
+      "filePath": "folgezettel/术语索引.md",
+      "openTime": "2024-10-04 09:16:52"
+    },
+    {
+      "displayText": "demo",
+      "filePath": "folgezettel/demo.md",
+      "openTime": "2024-10-04 09:15:52"
+    },
+    {
+      "displayText": "1514: 编程语言和编译器",
+      "filePath": "zettelkasten/1000 形式科学/1514 编程语言和编译器/1514 编程语言和编译器.md",
+      "openTime": "2024-10-03 15:51:55"
+    },
+    {
+      "displayText": "Java 技术体系",
+      "filePath": "folgezettel/Java 技术体系.md",
+      "openTime": "2024-10-03 15:51:32"
+    },
+    {
+      "displayText": "前端技术体系",
+      "filePath": "folgezettel/前端技术体系.md",
+      "openTime": "2024-10-03 15:49:04"
+    },
+    {
+      "displayText": "1539: 快捷键",
+      "filePath": "zettelkasten/1000 形式科学/1539 快捷键/1539 快捷键.md",
+      "openTime": "2024-10-03 15:39:39"
+    },
+    {
+      "displayText": "Java",
+      "filePath": "folgezettel/Java.md",
+      "openTime": "2024-10-03 15:39:37"
+    },
+    {
+      "displayText": "3010.1: 如何阅读一本书",
+      "filePath": "zettelkasten/3010.1 如何阅读一本书.md",
+      "openTime": "2024-10-03 15:25:01"
+    },
+    {
+      "displayText": "3010-1.1: 如何阅读一本书",
+      "filePath": "zettelkasten/3010-1.1 如何阅读一本书.md",
+      "openTime": "2024-10-03 14:05:16"
+    },
+    {
+      "displayText": "3010-1 读书方法",
+      "filePath": "folgezettel/3010-1 读书方法.md",
+      "openTime": "2024-10-03 14:05:11"
+    },
+    {
+      "displayText": "3010-1.2: 卡片笔记写作法",
+      "filePath": "zettelkasten/3000 社会科学/3010 教育学/3010-1.2 卡片笔记写作法.md",
+      "openTime": "2024-10-03 13:28:12"
+    },
+    {
+      "displayText": "1000: 形式科学",
+      "filePath": "zettelkasten/1000 形式科学/1000 形式科学.md",
+      "openTime": "2024-10-02 17:29:39"
+    },
     {
       "displayText": "3010: 教育学",
       "filePath": "zettelkasten/3010 教育学/3010 教育学.md",
@@ -60,11 +133,6 @@
       "displayText": "1200: 逻辑学",
       "filePath": "zettelkasten/1200 逻辑学/1200 逻辑学.md",
       "openTime": "2024-10-02 12:46:54"
-    },
-    {
-      "displayText": "Java",
-      "filePath": "folgezettel/Java.md",
-      "openTime": "2024-10-02 12:46:52"
     },
     {
       "displayText": "1500: 计算机科学",
@@ -82,15 +150,15 @@
       "openTime": "2024-10-01 21:29:48"
     }
   ],
-  "HistoryToggle": true,
+  "HistoryToggle": false,
   "HistoryMaxCount": 20,
-  "exportCanvas": true,
+  "exportCanvas": false,
   "cardWidth": 400,
   "cardHeight": 240,
   "canvasFilePath": "",
   "siblingsOrder": "number",
   "showAll": true,
   "showAllToggle": true,
-  "play": true,
+  "play": false,
   "outlineLayer": 2
 }

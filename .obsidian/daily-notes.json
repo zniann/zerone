@@ -1,5 +1,6 @@
 {
   "format": "YYYY/MM/YYYY-MM-DD",
   "folder": "journal/daily",
-  "template": "attachment/templatets/日记模板"
+  "template": "attachment/templatets/日记模板",
+  "autorun": true
 }

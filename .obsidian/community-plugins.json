@@ -1,9 +1,11 @@
 [
   "table-editor-obsidian",
-  "calendar",
   "quickadd",
   "easy-typing-obsidian",
   "note-definitions",
   "zettelkasten-navigation",
-  "obsidian-linter"
+  "obsidian-linter",
+  "templater-obsidian",
+  "calendar",
+  "periodic-notes"
 ]

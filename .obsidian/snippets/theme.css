@@ -21,3 +21,14 @@ ul > li.task-list-item[data-task="X"],
 .callout-content hr {
   margin: 0;
 }
+
+/* 双链预览不显示标题 */
+.markdown-embed-title,
+.markdown-embed .mod-header + div > :is(h1, h2, h3, h4, h5, h6) {
+  display: none;
+}
+
+.markdown-source-view .markdown-embed ul > li,
+.markdown-source-view .markdown-embed ol > li {
+  margin-inline-start: 0;
+}

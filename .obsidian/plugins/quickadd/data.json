@@ -7,66 +7,6 @@
       "command": false,
       "choices": [
         {
-          "id": "14f4e13c-b4dc-4b40-a49e-b901f8490d6d",
-          "name": "添加月记",
-          "type": "Template",
-          "command": true,
-          "templatePath": "attachment/templatets/月记模板.md",
-          "fileNameFormat": {
-            "enabled": true,
-            "format": "{{DATE:YYYY/YYYY-[M]MM}}"
-          },
-          "folder": {
-            "enabled": true,
-            "folders": [
-              "journal/monthly"
-            ],
-            "chooseWhenCreatingNote": false,
-            "createInSameFolderAsActiveFile": false,
-            "chooseFromSubfolders": false
-          },
-          "appendLink": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default",
-          "fileExistsMode": "Nothing",
-          "setFileExistsBehavior": true
-        },
-        {
-          "id": "88360587-ebec-40d7-b649-68c2a5cfdc6c",
-          "name": "添加年记",
-          "type": "Template",
-          "command": true,
-          "templatePath": "attachment/templatets/年记模板.md",
-          "fileNameFormat": {
-            "enabled": true,
-            "format": "{{DATE:[Y]YYYY}}"
-          },
-          "folder": {
-            "enabled": true,
-            "folders": [
-              "journal/yearly"
-            ],
-            "chooseWhenCreatingNote": false,
-            "createInSameFolderAsActiveFile": false,
-            "chooseFromSubfolders": false
-          },
-          "appendLink": false,
-          "openFileInNewTab": {
-            "enabled": false,
-            "direction": "vertical",
-            "focus": true
-          },
-          "openFile": false,
-          "openFileInMode": "default",
-          "fileExistsMode": "Nothing",
-          "setFileExistsBehavior": true
-        },
-        {
           "id": "a73279be-6003-4e88-9dc7-52b2a69250eb",
           "name": "添加书单",
           "type": "Template",
@@ -107,30 +47,30 @@
       "choices": [
         {
           "id": "200f7ff7-0d38-45d1-97ce-5b75cd2a7b27",
-          "name": "闪念捕获",
+          "name": "闪念笔记",
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "journal/inspiration/{{DATE:YYYY/MM/YYYY-MM-DD}} {{VALUE:闪念笔记文件名}}",
+          "captureTo": "journal/daily/{{DATE:YYYY/MM/YYYY-MM-DD}}",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
             "createWithTemplate": true,
-            "template": "attachment/templatets/闪念笔记.md"
+            "template": "attachment/templatets/日记模板.md"
           },
           "format": {
             "enabled": true,
-            "format": "- {{VALUE:请输入闪念笔记的内容}}"
+            "format": "- {{value}}"
           },
           "insertAfter": {
-            "enabled": false,
-            "after": "",
-            "insertAtEnd": false,
+            "enabled": true,
+            "after": "## 闪念笔记",
+            "insertAtEnd": true,
             "considerSubsections": false,
             "createIfNotFound": false,
             "createIfNotFoundLocation": "top"
           },
-          "prepend": true,
+          "prepend": false,
           "task": false,
           "openFileInNewTab": {
             "enabled": false,
@@ -141,13 +81,6 @@
           "openFileInMode": "default"
         }
       ]
-    },
-    {
-      "id": "7f34cba8-11d0-4093-8f3a-e8d8f57798ce",
-      "name": "Macro",
-      "type": "Multi",
-      "command": false,
-      "choices": []
     }
   ],
   "macros": [],

@@ -5,6 +5,7 @@
     "tags": "tags",
     "作者": "multitext",
     "出版日期": "date",
-    "页数": "number"
+    "页数": "number",
+    "参考文献": "multitext"
   }
 }
