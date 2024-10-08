@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "79c0da005c5d0e73",
+        "id": "5a4e2a3dbe79ba81",
         "type": "tabs",
         "children": [
           {
-            "id": "3182c4ea7f5db0d2",
+            "id": "1cef26927311c2ab",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,55 +65,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c729d620381f8a90",
     "type": "split",
     "children": [
       {
-        "id": "ad13ece26faa99a5",
+        "id": "96b6015c85af0bf2",
         "type": "tabs",
+        "dimension": 38.95631067961165,
         "children": [
           {
-            "id": "dbbb51e9d4096706",
+            "id": "20169b8b14fba68c",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.36288736930121285,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "b060cd6e561f745e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "calendar",
               "state": {}
             }
           },
@@ -126,22 +94,6 @@
                 "sortOrder": "frequency",
                 "useHierarchy": true
               }
-            }
-          },
-          {
-            "id": "a61b7df07e5475f3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "70f0feb5d4da2c0b",
-            "type": "leaf",
-            "state": {
-              "type": "zk-graph-type",
-              "state": {}
             }
           },
           {
@@ -172,63 +124,114 @@
             }
           }
         ]
+      },
+      {
+        "id": "ad13ece26faa99a5",
+        "type": "tabs",
+        "dimension": 61.043689320388346,
+        "children": [
+          {
+            "id": "34df2d08187bca8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbbb51e9d4096706",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792616,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": true,
+      "daily-notes:打开/创建今天的日记": false,
       "templater-obsidian:Templater": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "zettelkasten-navigation:打开关键词分支视图": false,
-      "zettelkasten-navigation:打开局部关系视图": false,
+      "zettelkasten-navigation:打开局部关系视图": true,
       "periodic-notes:Open today": false
     }
   },
-  "active": "3182c4ea7f5db0d2",
+  "active": "1cef26927311c2ab",
   "lastOpenFiles": [
+    "scheme/学习计划/读书计划.md",
+    "journal/daily/2024/10/2024-10-08.md",
     "journal/daily/2024/10/2024-10-06.md",
-    "scheme/学习计划-Java.md",
-    "journal/daily/2024/10/2024-10-05.md",
-    "scheme/学习计划-前端.md",
-    "scheme/读书阅读计划.md",
-    "journal/yearly/Y2024.md",
-    "journal/weekly/2024/2024-W40.md",
-    "journal/quarterly/2024/2024-Q4.md",
+    "journal/daily/2024/10/2024-10-07.md",
+    "journal/daily/2024/10/2024-10-03.md",
     "journal/monthly/2024/2024-M10.md",
-    "journal/booklist/B2024.md",
-    "career/小说写作/小说写作.md",
-    "career/淘宝客服/2024-C10.md",
-    "career/零一开物/零一开悟.md",
+    "journal/weekly/2024/2024-W41.md",
+    "scheme/学习计划/哲学计划.md",
+    "scheme/学习计划/写作计划.md",
+    "scheme/学习计划/神话计划.md",
+    "scheme/学习计划/历史计划.md",
+    "scheme/学习计划/方术计划.md",
+    "scheme/学习计划/道藏计划.md",
+    "scheme/学习计划/心理计划.md",
+    "scheme/学习计划/文学计划.md",
+    "career/淘宝客服/淘宝客服.md",
+    "scheme/学习计划/百家计划.md",
+    "scheme/学习计划/儒学计划.md",
+    "scheme/学习计划/佛学计划.md",
     "career/程序接单/程序接单.md",
-    "bibliography/@3010.1.2 卡片笔记写作法.md",
-    "bibliography/@3010.1.1 如何阅读一本书.md",
     "attachment/templatets/周记模板.md",
     "attachment/templatets/月记模板.md",
     "attachment/templatets/文献模板.md",
-    "attachment/templatets/季度模板.md",
     "attachment/templatets/书单模板.md",
     "attachment/templatets/日记模板.md",
     "attachment/templatets/年记模板.md",
-    "attachment/dictionary/论证.md",
-    "project/3007 会计学/3007 会计学.md",
-    "project/3007 会计学/3007.1 复式记账.md",
-    "zettelkasten/3010 教育学",
-    "journal/quarterly/2024",
-    "journal/quarterly",
-    "people",
-    "moc",
-    "scheme/3000 社会科学",
-    "scheme/1500 计算机科学",
-    "folgezettel/3000 社会科学",
-    "folgezettel/1500 计算机科学",
-    "bibliography/1500 计算机科学"
+    "未命名.canvas",
+    "hub",
+    "bibliography/@文献管理",
+    "bibliography/3010 教育学",
+    "scheme/财务计划",
+    "scheme/健身计划",
+    "scheme/兴趣计划",
+    "scheme/学习计划",
+    "scheme/生活计划",
+    "scheme/工作计划",
+    "zettelkasten/3010 教育学"
   ]
 }
